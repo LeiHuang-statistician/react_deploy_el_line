@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_deploy_el_line/static/css/main.ffaa5049.css",
+    "main.js": "/react_deploy_el_line/static/js/main.815ea8b5.js",
+    "static/media/bmi_plot.csv": "/react_deploy_el_line/static/media/bmi_plot.3fbbf823eeed994ad183.csv",
+    "index.html": "/react_deploy_el_line/index.html",
+    "main.ffaa5049.css.map": "/react_deploy_el_line/static/css/main.ffaa5049.css.map",
+    "main.815ea8b5.js.map": "/react_deploy_el_line/static/js/main.815ea8b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaa5049.css",
+    "static/js/main.815ea8b5.js"
+  ]
+}
